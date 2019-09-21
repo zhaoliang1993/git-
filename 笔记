@@ -1,0 +1,2 @@
+1.git pull 失败
+    git branch --set-upstream-to=remotes/origin/next_centos7.5 next_centos7.5
