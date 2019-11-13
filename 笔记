@@ -1,2 +1,5 @@
 1.git pull 失败
     git branch --set-upstream-to=remotes/origin/next_centos7.5 next_centos7.5
+    
+  可以尝试回退版本再git pull
+  git reset --hard 139dcfaa558e3276b30b6b2e5cbbb9c00bbdca96
