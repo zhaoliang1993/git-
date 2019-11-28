@@ -3,3 +3,15 @@
     
   可以尝试回退版本再git pull
   git reset --hard 139dcfaa558e3276b30b6b2e5cbbb9c00bbdca96
+
+2.git查看用户名和邮箱
+    //查看用户名
+    git config user.name
+    //查看用户邮箱地址
+    git config user.email
+    
+3.git修改用户名和邮箱
+    //修改用户名称
+    git config --global user.name "username"
+    //修改邮箱地址
+    git config --global user.email "email@xxx.com"
